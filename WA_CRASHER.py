@@ -23,7 +23,6 @@
 #Type    : Whatsapp - Crasher     #
 ###################################
 import os
-import colorama
 import time
 import sys
 from colorama import  Fore,Style
